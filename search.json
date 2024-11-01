@@ -64,7 +64,7 @@
     "href": "oschoose.html",
     "title": "OSの選択",
     "section": "",
-    "text": "Windows端末の方は こちら\nMac端末の方はこちら",
+    "text": "Windows端末の方\nこちらを参照してください。",
     "crumbs": [
       "OSの選択"
     ]
@@ -75,6 +75,27 @@
     "title": "1  試験で利用する端末のOSの確認",
     "section": "",
     "text": "Windows 11，Windows 10，Windows 8.1のいずれかが搭載されているかどうか，確認してください。\n＜確認方法＞\nスタートメニュー内「設定」\n→「システム」\n→左ペインの一番下にある「バージョン情報」または「詳細情報」\n→Windowsの仕様の「エディション」を確認（下図）\n\n\n\nWindowsのバージョン確認",
+    "crumbs": [
+      "Windows端末",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>試験で利用する端末のOSの確認</span>"
+    ]
+  },
+  {
+    "objectID": "oschoose.html#mac端末の方",
+    "href": "oschoose.html#mac端末の方",
+    "title": "OSの選択",
+    "section": "Mac端末の方",
+    "text": "Mac端末の方\nMac端末の方はこちら",
+    "crumbs": [
+      "OSの選択"
+    ]
+  },
+  {
+    "objectID": "osVersionCheck_win.html",
+    "href": "osVersionCheck_win.html",
+    "title": "1  試験で利用する端末のOSの確認",
+    "section": "",
+    "text": "Windows 11，Windows 10，Windows 8.1のいずれかが搭載されているかどうか，確認してください。\n＜確認方法＞\nスタートメニュー内「設定」\n→「システム」\n→左ペインの一番下にある「バージョン情報」または「詳細情報」\n→Windowsの仕様の「エディション」を確認（下図）\n\n\n\nWindowsのバージョン確認\n\n\nエディションのところに，Windows 11，Windows 10，Windows 8.1から始まるものが表示されていれば，問題ありません。\n\n2 端末の確認\n\nUSBポートが1口あるか確認してください。\n\nUSBポートには，Type-AとType-Cがあります。\n\n試験で使用するのはType-Aです。\n\n下の図に示したUSB Type-Aのポートがあるかどうかを確認してください。\n\nイヤホンの差し込み口 (3.5mm) があるか確認してください。",
     "crumbs": [
       "Windows端末",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>試験で利用する端末のOSの確認</span>"

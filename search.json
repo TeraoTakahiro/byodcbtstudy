@@ -1,0 +1,83 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "受験環境の準備マニュアル",
+    "section": "",
+    "text": "このマニュアルについて\nこのマニュアルは、ご自身のコンピュータ端末を使って試験場で試験を受ける方が、試験当日までにご自身の端末について確認を行ったり、必要なアプリケーションをインストールしたりするための手順を示したものです。このマニュアルに示す手順通りに作業を行い、試験システムに接続できるかをご確認ください。\n同じ内容は、以下のPDFファイルでも確認できます。\nをご利用ください。なお、Webサイトには作業手順の動画など、よりわかりやすいコンテンツがあります。",
+    "crumbs": [
+      "このマニュアルについて"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  OSの選択",
+    "section": "",
+    "text": "Windows端末の方は こちら\nMac端末の方はこちら",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>OSの選択</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "index.html#このマニュアルを使って事前準備していただく事項一覧",
+    "href": "index.html#このマニュアルを使って事前準備していただく事項一覧",
+    "title": "受験環境の準備マニュアル",
+    "section": "このマニュアルを使って事前準備していただく事項（一覧）",
+    "text": "このマニュアルを使って事前準備していただく事項（一覧）\n\n当日お持ちいただく予定の，試験で使用するご自分の端末について事前確認いただきます。\n\nご自身が管理者権限（アプリケーションのインストール・アンインストールを決めてよい権限）を持っている端末を用意してください。\n\nWindows端末またはMac端末がご利用いただけます。\n\niPad・iPhone・ChromebookやAndroidタブレットは非対応ですので，あらかじめご了承ください。\n\n試験問題の出題・解答に用いるロックダウンブラウザ (Safe Exam Browser) をダウンロードしていただきます。\n\nこの試験独自の設定に関するファイル（ファイル名は「DNC試験用設定ファイル.seb」で，以降は「設定ファイル」と呼びます）をダウンロードしていただきます。\n\n設定ファイルを使って，当日も使用する試験システムに接続できるか試していただきます。",
+    "crumbs": [
+      "このマニュアルについて"
+    ]
+  },
+  {
+    "objectID": "index.html#研究の概要と目的",
+    "href": "index.html#研究の概要と目的",
+    "title": "受験環境の準備マニュアル",
+    "section": "研究の概要と目的",
+    "text": "研究の概要と目的\nこの伴走サイトは、大学入試センターが実施する「【佐賀大学で開催】端末持参型のコンピュータ試験に関する研究」の研究参加者向けに、試験を受けるための環境（アプリケーションや設定など）を事前に準備してもらうためのWeb版マニュアルです。研究参加者募集システムで登録した方のみ、ご参加いただけます。\n\n研究課題名\n\n受験者BYOD端末へのCBT環境配布方法パッケージの確立と試行実験\n\n研究費目\n\n大学入試センター理事長裁量経費\n\n研究代表者\n\n寺尾尚大（大学入試センター研究開発部）",
+    "crumbs": [
+      "このマニュアルについて"
+    ]
+  },
+  {
+    "objectID": "oschoose.html",
+    "href": "oschoose.html",
+    "title": "OSの選択",
+    "section": "",
+    "text": "Windows端末の方は こちら\nMac端末の方はこちら",
+    "crumbs": [
+      "OSの選択"
+    ]
+  },
+  {
+    "objectID": "osVersioncheck_win.html",
+    "href": "osVersioncheck_win.html",
+    "title": "1  試験で利用する端末のOSの確認",
+    "section": "",
+    "text": "Windows 11，Windows 10，Windows 8.1のいずれかが搭載されているかどうか，確認してください。\n＜確認方法＞\nスタートメニュー内「設定」\n→「システム」\n→左ペインの一番下にある「バージョン情報」または「詳細情報」\n→Windowsの仕様の「エディション」を確認（下図）\n\n\n\nWindowsのバージョン確認",
+    "crumbs": [
+      "Windows端末",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>試験で利用する端末のOSの確認</span>"
+    ]
+  }
+]

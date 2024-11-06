@@ -95,10 +95,86 @@
     "href": "osVersionCheck_win.html",
     "title": "1  試験で利用する端末のOSの確認",
     "section": "",
-    "text": "Windows 11，Windows 10，Windows 8.1のいずれかが搭載されているかどうか，確認してください。\n＜確認方法＞\nスタートメニュー内「設定」\n→「システム」\n→左ペインの一番下にある「バージョン情報」または「詳細情報」\n→Windowsの仕様の「エディション」を確認（下図）\n\n\n\nWindowsのバージョン確認\n\n\nエディションのところに，Windows 11，Windows 10，Windows 8.1から始まるものが表示されていれば，問題ありません。\n\n2 端末の確認\n\nUSBポートが1口あるか確認してください。\n\nUSBポートには，Type-AとType-Cがあります。\n\n試験で使用するのはType-Aです。\n\n下の図に示したUSB Type-Aのポートがあるかどうかを確認してください。\n\nイヤホンの差し込み口 (3.5mm) があるか確認してください。",
+    "text": "確認方法\nスタートメニュー内「設定」\n→「システム」\n→左ペインの一番下にある「バージョン情報」または「詳細情報」\n→Windowsの仕様の「エディション」を確認（下図）\nエディションのところに，Windows 11，Windows 10，Windows 8.1から始まるものが表示されていれば，問題ありません。",
     "crumbs": [
       "Windows端末",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>試験で利用する端末のOSの確認</span>"
+    ]
+  },
+  {
+    "objectID": "osVersionCheck_win.html#確認方法",
+    "href": "osVersionCheck_win.html#確認方法",
+    "title": "1  試験で利用する端末のOSの確認",
+    "section": "",
+    "text": "Windowsのバージョン確認",
+    "crumbs": [
+      "Windows端末",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>試験で利用する端末のOSの確認</span>"
+    ]
+  },
+  {
+    "objectID": "deviceCheck.html",
+    "href": "deviceCheck.html",
+    "title": "2  端末の確認",
+    "section": "",
+    "text": "USBポートが1口あるか確認してください。\n\nUSBポートには，Type-AとType-Cがあります。\n\n試験で使用するのはType-Aです。\n\n下の図に示したUSB Type-Aのポートがあるかどうかを確認してください。\n\n\n\n\n\nUSB Type-AとType-C\n\n\n\nイヤホンの差し込み口 (3.5mm) があるか確認してください。",
+    "crumbs": [
+      "Windows端末",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>端末の確認</span>"
+    ]
+  },
+  {
+    "objectID": "oschoose.html#windows端末の方",
+    "href": "oschoose.html#windows端末の方",
+    "title": "1  設定に困ったら",
+    "section": "1.1 Windows端末の方",
+    "text": "1.1 Windows端末の方\nこちらを参照してください。",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>設定に困ったら</span>"
+    ]
+  },
+  {
+    "objectID": "SEBInstall_win.html",
+    "href": "SEBInstall_win.html",
+    "title": "3  ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ",
+    "section": "",
+    "text": "3.1 ダウンロード\nロックダウンブラウザとは、試験時間中に他のアプリケーションを起動するのを禁じるなど不正行為の抑止を行うとともに、メールや通知などを一時的にオフにするなど試験への解答を妨げないようにするためのものです。\n以下のURLから、Safe Exam Browser 3.8.0 for Windowsをクリックし、最新版のロックダウンブラウザのファイル一式をダウンロードしてください。 - Safe Exam BrowserのWebサイト\nSafe Exam Browser 3.8.0 for Windowsをクリックすると、初期設定のための実行ファイル (SEB_3.8.0.742_SetupBundle.exe) がダウンロードされます。ダウンロードが終了したら、このファイルをダブルクリックして、セットアップウィザードを開始してください。",
+    "crumbs": [
+      "Windows端末",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ</span>"
+    ]
+  },
+  {
+    "objectID": "SEBInstall_win.html#ダウンロード",
+    "href": "SEBInstall_win.html#ダウンロード",
+    "title": "3  ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ",
+    "section": "",
+    "text": "参考情報\n\n\n\n2024年9月末時点では、Safe Exam Browser 3.8.0 for Windowsが最新です。\n\n\n\n\n\n\n\n\n注意！\n\n\n\n下にスクロールすると、SEB Verificatorという別のアプリケーションのダウンロードページがあります。今回使用するのはSEB Verificatorではありませんので、誤ってダウンロードしないように注意してください。",
+    "crumbs": [
+      "Windows端末",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ</span>"
+    ]
+  },
+  {
+    "objectID": "SEBInstall_win.html#セットアップ",
+    "href": "SEBInstall_win.html#セットアップ",
+    "title": "3  ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ",
+    "section": "3.2 セットアップ",
+    "text": "3.2 セットアップ",
+    "crumbs": [
+      "Windows端末",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ</span>"
+    ]
+  },
+  {
+    "objectID": "deviceCheck_win.html",
+    "href": "deviceCheck_win.html",
+    "title": "2  端末の確認",
+    "section": "",
+    "text": "USBポートが1口あるか確認してください。\n\nUSBポートには，Type-AとType-Cがあります。\n\n試験で使用するのはType-Aです。\n\n下の図に示したUSB Type-Aのポートがあるかどうかを確認してください。\n\n\n\n\n\nUSB Type-AとType-C\n\n\n\nイヤホンの差し込み口 (3.5mm) があるか確認してください。",
+    "crumbs": [
+      "Windows端末",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>端末の確認</span>"
     ]
   }
 ]

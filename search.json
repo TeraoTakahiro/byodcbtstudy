@@ -151,23 +151,23 @@
   {
     "objectID": "uninstallSEB_win.html",
     "href": "uninstallSEB_win.html",
-    "title": "7  【試験終了後，必要な方は実施】Safe Exam Browserのアンインストール",
+    "title": "7  【試験終了後、必要な方は実施】Safe Exam Browserのアンインストール",
     "section": "",
-    "text": "7.1 アンインストール方法\nスタートメニュー内「設定」\n→「アプリ」\n→「インストールされているアプリ (Windows 11)／アプリと機能 (Windows 10)」\n→Safe Exam Browserを検索し，三点リーダをクリック (Windows 11)／単にクリック (Windows 10) して「アンインストール」を選択\n また，設定ファイルについては，通常のファイルと同様にごみ箱に入れて削除することができます。",
+    "text": "アンインストール方法\nスタートメニュー内「設定」\n→「アプリ」\n→「インストールされているアプリ (Windows 11)／アプリと機能 (Windows 10)」\n→Safe Exam Browserを検索し、三点リーダをクリック (Windows 11)／単にクリック (Windows 10) して「アンインストール」を選択\nまた、設定ファイルについては、通常のファイルと同様にごみ箱に入れて削除することができます。",
     "crumbs": [
       "Windows端末",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>【試験終了後，必要な方は実施】Safe Exam Browserのアンインストール</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>【試験終了後、必要な方は実施】Safe Exam Browserのアンインストール</span>"
     ]
   },
   {
     "objectID": "uninstallSEB_win.html#アンインストール方法",
     "href": "uninstallSEB_win.html#アンインストール方法",
-    "title": "7  【試験終了後，必要な方は実施】Safe Exam Browserのアンインストール",
+    "title": "7  【試験終了後、必要な方は実施】Safe Exam Browserのアンインストール",
     "section": "",
     "text": "Safe Exam Browserのアンインストール",
     "crumbs": [
       "Windows端末",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>【試験終了後，必要な方は実施】Safe Exam Browserのアンインストール</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>【試験終了後、必要な方は実施】Safe Exam Browserのアンインストール</span>"
     ]
   }
 ]

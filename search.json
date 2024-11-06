@@ -10,33 +10,13 @@
     ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  OSの選択",
-    "section": "",
-    "text": "Windows端末の方は こちら\nMac端末の方はこちら",
+    "objectID": "index.html#研究の概要と目的",
+    "href": "index.html#研究の概要と目的",
+    "title": "受験環境の準備マニュアル",
+    "section": "研究の概要と目的",
+    "text": "研究の概要と目的\nこの伴走サイトは、大学入試センターが実施する「【佐賀大学で開催】端末持参型のコンピュータ試験に関する研究」の研究参加者向けに、試験を受けるための環境（アプリケーションや設定など）を事前に準備してもらうためのWeb版マニュアルです。研究参加者募集システムで登録した方のみ、ご参加いただけます。\n\n研究課題名\n\n受験者BYOD端末へのCBT環境配布方法パッケージの確立と試行実験\n\n研究費目\n\n大学入試センター理事長裁量経費\n\n研究代表者\n\n寺尾尚大（大学入試センター研究開発部）",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>OSの選択</span>"
-    ]
-  },
-  {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
-    "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
-    ]
-  },
-  {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
-    "crumbs": [
-      "References"
+      "このマニュアルについて"
     ]
   },
   {
@@ -50,34 +30,13 @@
     ]
   },
   {
-    "objectID": "index.html#研究の概要と目的",
-    "href": "index.html#研究の概要と目的",
-    "title": "受験環境の準備マニュアル",
-    "section": "研究の概要と目的",
-    "text": "研究の概要と目的\nこの伴走サイトは、大学入試センターが実施する「【佐賀大学で開催】端末持参型のコンピュータ試験に関する研究」の研究参加者向けに、試験を受けるための環境（アプリケーションや設定など）を事前に準備してもらうためのWeb版マニュアルです。研究参加者募集システムで登録した方のみ、ご参加いただけます。\n\n研究課題名\n\n受験者BYOD端末へのCBT環境配布方法パッケージの確立と試行実験\n\n研究費目\n\n大学入試センター理事長裁量経費\n\n研究代表者\n\n寺尾尚大（大学入試センター研究開発部）",
-    "crumbs": [
-      "このマニュアルについて"
-    ]
-  },
-  {
     "objectID": "oschoose.html",
     "href": "oschoose.html",
     "title": "OSの選択",
     "section": "",
-    "text": "Windows端末の方\nこちらを参照してください。",
+    "text": "設定に困ったら\n\n\n\n相談用メールアドレス（大学入試センター研究開発部 寺尾研究室）までご連絡ください。\n\n\nWindows\nMac端末の方はこちら",
     "crumbs": [
       "OSの選択"
-    ]
-  },
-  {
-    "objectID": "osVersioncheck_win.html",
-    "href": "osVersioncheck_win.html",
-    "title": "1  試験で利用する端末のOSの確認",
-    "section": "",
-    "text": "Windows 11，Windows 10，Windows 8.1のいずれかが搭載されているかどうか，確認してください。\n＜確認方法＞\nスタートメニュー内「設定」\n→「システム」\n→左ペインの一番下にある「バージョン情報」または「詳細情報」\n→Windowsの仕様の「エディション」を確認（下図）\n\n\n\nWindowsのバージョン確認",
-    "crumbs": [
-      "Windows端末",
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>試験で利用する端末のOSの確認</span>"
     ]
   },
   {
@@ -95,7 +54,7 @@
     "href": "osVersionCheck_win.html",
     "title": "1  試験で利用する端末のOSの確認",
     "section": "",
-    "text": "確認方法\nスタートメニュー内「設定」\n→「システム」\n→左ペインの一番下にある「バージョン情報」または「詳細情報」\n→Windowsの仕様の「エディション」を確認（下図）\nエディションのところに，Windows 11，Windows 10，Windows 8.1から始まるものが表示されていれば，問題ありません。",
+    "text": "確認方法\nスタートメニュー内「設定」\n→「システム」\n→左ペインの一番下にある「バージョン情報」または「詳細情報」\n→Windowsの仕様の「エディション」を確認（下図）\nエディションのところに、Windows 11、Windows 10、Windows 8.1から始まるものが表示されていれば、問題ありません。",
     "crumbs": [
       "Windows端末",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>試験で利用する端末のOSの確認</span>"
@@ -113,24 +72,14 @@
     ]
   },
   {
-    "objectID": "deviceCheck.html",
-    "href": "deviceCheck.html",
+    "objectID": "deviceCheck_win.html",
+    "href": "deviceCheck_win.html",
     "title": "2  端末の確認",
     "section": "",
-    "text": "USBポートが1口あるか確認してください。\n\nUSBポートには，Type-AとType-Cがあります。\n\n試験で使用するのはType-Aです。\n\n下の図に示したUSB Type-Aのポートがあるかどうかを確認してください。\n\n\n\n\n\nUSB Type-AとType-C\n\n\n\nイヤホンの差し込み口 (3.5mm) があるか確認してください。",
+    "text": "USBポートが1口あるか確認してください。\n\nUSBポートには、Type-AとType-Cがあります。\n\n試験で使用するのはType-Aです。\n\n下の図に示したUSB Type-Aのポートがあるかどうかを確認してください。\n\n\n\n\n\nUSB Type-AとType-C\n\n\n\nイヤホンの差し込み口 (3.5mm) があるか確認してください。",
     "crumbs": [
       "Windows端末",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>端末の確認</span>"
-    ]
-  },
-  {
-    "objectID": "oschoose.html#windows端末の方",
-    "href": "oschoose.html#windows端末の方",
-    "title": "1  設定に困ったら",
-    "section": "1.1 Windows端末の方",
-    "text": "1.1 Windows端末の方\nこちらを参照してください。",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>設定に困ったら</span>"
     ]
   },
   {
@@ -160,21 +109,65 @@
     "href": "SEBInstall_win.html#セットアップ",
     "title": "3  ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ",
     "section": "3.2 セットアップ",
-    "text": "3.2 セットアップ",
+    "text": "3.2 セットアップ\n下の図に示すような，セットアップウィザード（インストールための画面）が表示されます。\n\n\n\nSafe Exam Browserのセットアップウィザードの画面\n\n\n下にある I agree to the license terms and conditions（利用規約と条件に同意する）にチェックを入れて，Install（インストール）を押してください。\nアプリケーションのインストールを許可するかどうか尋ねられますので，「はい」を選択してください。\nダウンロードが完了すると，右図のようにInstallation Successfully Completed（インストールが無事に完了しました）というメッセージが表示されますので，Close（閉じる）を押してください。\n\n\n\nSafe Exam Browserのインストール完了画面",
     "crumbs": [
       "Windows端末",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ</span>"
     ]
   },
   {
-    "objectID": "deviceCheck_win.html",
-    "href": "deviceCheck_win.html",
-    "title": "2  端末の確認",
+    "objectID": "downLoad_seb_file_win.html",
+    "href": "downLoad_seb_file_win.html",
+    "title": "4  設定ファイルのダウンロード",
     "section": "",
-    "text": "USBポートが1口あるか確認してください。\n\nUSBポートには，Type-AとType-Cがあります。\n\n試験で使用するのはType-Aです。\n\n下の図に示したUSB Type-Aのポートがあるかどうかを確認してください。\n\n\n\n\n\nUSB Type-AとType-C\n\n\n\nイヤホンの差し込み口 (3.5mm) があるか確認してください。",
+    "text": "「設定ファイルのダウンロード」を押して、今回の試験のための設定ファイル (DNC試験用設定ファイル.seb) をダウンロードしてください。\n設定ファイルのダウンロード\nこの設定ファイルは当日も使用します。当日すぐに開けるように，ダウンロードフォルダからデスクトップに保存してください。\n\n\n\nデスクトップ画面への移動",
     "crumbs": [
       "Windows端末",
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>端末の確認</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>設定ファイルのダウンロード</span>"
+    ]
+  },
+  {
+    "objectID": "system_trial_win.html",
+    "href": "system_trial_win.html",
+    "title": "5  試験システムの操作体験",
+    "section": "",
+    "text": "デスクトップに置いた設定ファイルをダブルクリックしてください。パスワードの入力が求められますので、以下のパスワードを半角数字で入力してください。\n\n\n\n\n\n\nパスワードを確認するにはここを展開してください\n\n\n\n\n\n20241217\n\n\n\n試験システムが起動します。ログイン画面（下の図）が表示されれば問題ありません。\n\n\n\n試験システムのログインページ\n\n\nログインIDとパスワードが記された「受験番号票」は試験当日に配布しますので、前日まではシステムにログインできません。\n試験システムの操作を試すには、Guest Access（ゲストアクセス）をクリックしてください。デモ版の試験がいくつか表示されています。試験で使用される可能性がある出題・解答形式のサンプル問題の閲覧・解答体験ができますので、試してみてください。\n\n\n\n\n\n\n重要\n\n\n\n次にある「ロックダウンブラウザの閉じ方」のページは、操作体験を実施する前に必ずご覧ください。",
+    "crumbs": [
+      "Windows端末",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>試験システムの操作体験</span>"
+    ]
+  },
+  {
+    "objectID": "closeLockDownBrowser_win.html",
+    "href": "closeLockDownBrowser_win.html",
+    "title": "6  【重要】ロックダウンブラウザの閉じ方",
+    "section": "",
+    "text": "ブラウザを閉じるには，右下にある  のマークを選択してください。\n左上に閉じるボタンは表示されません。\n閉じる前に，Do you want to quit SEB?（SEBを閉じますか？）と尋ねられますので，Yes（はい）を選択してください。",
+    "crumbs": [
+      "Windows端末",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>【重要】ロックダウンブラウザの閉じ方</span>"
+    ]
+  },
+  {
+    "objectID": "uninstallSEB_win.html",
+    "href": "uninstallSEB_win.html",
+    "title": "7  【試験終了後，必要な方は実施】Safe Exam Browserのアンインストール",
+    "section": "",
+    "text": "7.1 アンインストール方法\nスタートメニュー内「設定」\n→「アプリ」\n→「インストールされているアプリ (Windows 11)／アプリと機能 (Windows 10)」\n→Safe Exam Browserを検索し，三点リーダをクリック (Windows 11)／単にクリック (Windows 10) して「アンインストール」を選択\n また，設定ファイルについては，通常のファイルと同様にごみ箱に入れて削除することができます。",
+    "crumbs": [
+      "Windows端末",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>【試験終了後，必要な方は実施】Safe Exam Browserのアンインストール</span>"
+    ]
+  },
+  {
+    "objectID": "uninstallSEB_win.html#アンインストール方法",
+    "href": "uninstallSEB_win.html#アンインストール方法",
+    "title": "7  【試験終了後，必要な方は実施】Safe Exam Browserのアンインストール",
+    "section": "",
+    "text": "Safe Exam Browserのアンインストール",
+    "crumbs": [
+      "Windows端末",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>【試験終了後，必要な方は実施】Safe Exam Browserのアンインストール</span>"
     ]
   }
 ]

@@ -87,7 +87,7 @@
     "href": "SEBInstall_win.html",
     "title": "ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ",
     "section": "",
-    "text": "ダウンロード\nロックダウンブラウザとは、試験時間中に他のアプリケーションを起動するのを禁じるなど不正行為の抑止を行うとともに、メールや通知などを一時的にオフにするなど試験への解答を妨げないようにするためのものです。\n以下のURLから、Safe Exam Browser 3.8.0 for Windowsをクリックし、最新版のロックダウンブラウザのファイル一式をダウンロードしてください。 - Safe Exam BrowserのWebサイト\nSafe Exam Browser 3.8.0 for Windowsをクリックすると、初期設定のための実行ファイル (SEB_3.8.0.742_SetupBundle.exe) がダウンロードされます。ダウンロードが終了したら、このファイルをダブルクリックして、セットアップウィザードを開始してください。",
+    "text": "ダウンロード\nロックダウンブラウザとは、試験時間中に他のアプリケーションを起動するのを禁じるなど不正行為の抑止を行うとともに、メールや通知などを一時的にオフにするなど試験への解答を妨げないようにするためのものです。\n以下のURLから、Safe Exam Browser 3.8.0 for Windowsをクリックし、最新版のロックダウンブラウザのファイル一式をダウンロードしてください。\nSafe Exam Browser 3.8.0 for Windowsをクリックすると、初期設定のための実行ファイル (SEB_3.8.0.742_SetupBundle.exe) がダウンロードされます。ダウンロードが終了したら、このファイルをダブルクリックして、セットアップウィザードを開始してください。",
     "crumbs": [
       "Windows端末",
       "ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ"
@@ -98,7 +98,7 @@
     "href": "SEBInstall_win.html#ダウンロード",
     "title": "ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ",
     "section": "",
-    "text": "参考情報\n\n\n\n2024年9月末時点では、Safe Exam Browser 3.8.0 for Windowsが最新です。\n\n\n\n\n\n\n\n\n注意！\n\n\n\n下にスクロールすると、SEB Verificatorという別のアプリケーションのダウンロードページがあります。今回使用するのはSEB Verificatorではありませんので、誤ってダウンロードしないように注意してください。",
+    "text": "Safe Exam BrowserのWebサイト\n\n\n\n\n\n\n\n参考情報\n\n\n\n2024年9月末時点では、Safe Exam Browser 3.8.0 for Windowsが最新です。\n\n\n\n\n\n\n\n\n注意！\n\n\n\n下にスクロールすると、SEB Verificatorという別のアプリケーションのダウンロードページがあります。今回使用するのはSEB Verificatorではありませんので、誤ってダウンロードしないように注意してください。",
     "crumbs": [
       "Windows端末",
       "ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ"
@@ -109,7 +109,7 @@
     "href": "SEBInstall_win.html#セットアップ",
     "title": "ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ",
     "section": "セットアップ",
-    "text": "セットアップ\n下の図に示すような，セットアップウィザード（インストールための画面）が表示されます。\n\n\n\nSafe Exam Browserのセットアップウィザードの画面\n\n\n下にある I agree to the license terms and conditions（利用規約と条件に同意する）にチェックを入れて，Install（インストール）を押してください。\nアプリケーションのインストールを許可するかどうか尋ねられますので，「はい」を選択してください。\nダウンロードが完了すると，右図のようにInstallation Successfully Completed（インストールが無事に完了しました）というメッセージが表示されますので，Close（閉じる）を押してください。\n\n\n\nSafe Exam Browserのインストール完了画面",
+    "text": "セットアップ\n下の図に示すような、セットアップウィザード（インストールための画面）が表示されます。\n\n\n\nSafe Exam Browserのセットアップウィザードの画面\n\n\n下にある I agree to the license terms and conditions（利用規約と条件に同意する）にチェックを入れて、Install（インストール）を押してください。\nアプリケーションのインストールを許可するかどうか尋ねられますので、「はい」を選択してください。\nダウンロードが完了すると、右図のようにInstallation Successfully Completed（インストールが無事に完了しました）というメッセージが表示されますので、Close（閉じる）を押してください。\n\n\n\nSafe Exam Browserのインストール完了画面",
     "crumbs": [
       "Windows端末",
       "ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ"
@@ -120,7 +120,7 @@
     "href": "downLoad_seb_file_win.html",
     "title": "設定ファイルのダウンロード",
     "section": "",
-    "text": "設定に困ったら\n\n\n\n相談用メールアドレス（大学入試センター研究開発部 寺尾研究室）までご連絡ください。\n\n\n「設定ファイルのダウンロード」を押して、今回の試験のための設定ファイル (DNC試験用設定ファイル.seb) をダウンロードしてください。\n設定ファイルのダウンロード\nこの設定ファイルは当日も使用します。当日すぐに開けるように，ダウンロードフォルダからデスクトップに保存してください。\n\n\n\nデスクトップ画面への移動",
+    "text": "設定ファイルのダウンロードと起動（パスワードの入力まで）の動画",
     "crumbs": [
       "Windows端末",
       "設定ファイルのダウンロード"
@@ -175,7 +175,7 @@
     "href": "osVersionCheck_mac.html",
     "title": "試験で利用する端末のOSの確認",
     "section": "",
-    "text": "設定に困ったら\n\n\n\n相談用メールアドレス（大学入試センター研究開発部 寺尾研究室）までご連絡ください。\n\n\n下記の手順に沿って、macOSのバージョン番号を確認してください。バージョン番号とは、macOSの後に続く10.14や13などのことです。2024年10月時点で、最新版は15.0.1（macOS 15.0.1 Sequoia）です。\n＜確認方法＞ 「システム設定（環境設定）」→左ペインの「一般」→「情報」→「macOS」を確認\n\n\n\nmacOSのバージョン番号の確認\n\n\n下記の例では，最新版（15.0.1）がインストールされています。 この試験では，macOS 10.13 High Sierra以上のmacOSがインストールされていれば問題ありません。\n（参考）\n\nmacOS 15.0.1 Sequoia\nmacOS 14.7 Sonoma\nmacOS 13.7 Ventura\nmacOS 12.7.6 Monterey\nmacOS 11.7.10 Big Sur\nmacOS 10.15 Catalina\nmacOS 10.14 Mojave\nmacOS 10.13 High Sierra\n\n\n\n\nmacOSのバージョンの例",
+    "text": "OSの確認手順動画",
     "crumbs": [
       "Mac端末",
       "試験で利用する端末のOSの確認"
@@ -197,7 +197,7 @@
     "href": "SEBInstall_mac.html",
     "title": "ロックダウンブラウザ (Safe Exam Browser) のダウンロード",
     "section": "",
-    "text": "ダウンロード\nロックダウンブラウザとは、試験時間中に他のアプリケーションを起動するのを禁じるなど不正行為の抑止を行うとともに、メールや通知などを一時的にオフにするなど試験への解答を妨げないようにするためのものです。\n以下のURLから、Safe Exam Browser 3.3.3 for macOSをクリックし、最新版のロックダウンブラウザのファイル一式をダウンロードしてください。 - Safe Exam BrowserのWebサイト\nSafe Exam Browser 3.3.3 for macOSをクリックすると，初期設定のための実行ファイル (SafeExamBrowser 3.3.3.dmg) がダウンロードされます。ダウンロードが終了したら，このファイルをアプリケーション (Applications) フォルダに入れてください。",
+    "text": "ダウンロード\nロックダウンブラウザとは、試験時間中に他のアプリケーションを起動するのを禁じるなど不正行為の抑止を行うとともに、メールや通知などを一時的にオフにするなど試験への解答を妨げないようにするためのものです。\n以下のURLから、Safe Exam Browser 3.4 for macOSをクリックし、最新版のロックダウンブラウザのファイル一式をダウンロードしてください。\nSafe Exam Browser 3.4 for macOSをクリックすると、初期設定のための実行ファイル (SafeExamBrowser 3.4.dmg) がダウンロードされます。ダウンロードが終了したら、このファイルをアプリケーション (Applications) フォルダに入れてください。",
     "crumbs": [
       "Mac端末",
       "ロックダウンブラウザ (Safe Exam Browser) のダウンロード"
@@ -208,7 +208,7 @@
     "href": "SEBInstall_mac.html#ダウンロード",
     "title": "ロックダウンブラウザ (Safe Exam Browser) のダウンロード",
     "section": "",
-    "text": "参考情報\n\n\n\n2024年9月末時点では、Safe Exam Browser 3.3.3 for macOSが最新です。\n\n\n\n\n\n\n\n\n注意！\n\n\n\n下にスクロールすると、SEB Verificatorという別のアプリケーションのダウンロードページがあります。今回使用するのはSEB Verificatorではありませんので、誤ってダウンロードしないように注意してください。\n\n\n\n\n\n\nSafe Exam Browserをアプリケーションフォルダに移動",
+    "text": "Safe Exam BrowserのWebサイト\n\n\n\n\n\n\n\n参考情報\n\n\n\n2024年10月末時点では、Safe Exam Browser 3.4 for macOSが最新です。\n\n\n\n\n\n\n\n\n注意！\n\n\n\n下にスクロールすると、SEB Verificatorという別のアプリケーションのダウンロードページがあります。今回使用するのはSEB Verificatorではありませんので、誤ってダウンロードしないように注意してください。\n\n\n\n\n\n\nSafe Exam Browserをアプリケーションフォルダに移動",
     "crumbs": [
       "Mac端末",
       "ロックダウンブラウザ (Safe Exam Browser) のダウンロード"
@@ -219,7 +219,7 @@
     "href": "downLoad_seb_file_mac.html",
     "title": "設定ファイルのダウンロード",
     "section": "",
-    "text": "設定に困ったら\n\n\n\n相談用メールアドレス（大学入試センター研究開発部 寺尾研究室）までご連絡ください。\n\n\n「設定ファイルのダウンロード」を押して、今回の試験のための設定ファイル (DNC試験用設定ファイル.seb) をダウンロードしてください。\n設定ファイルのダウンロード\nこの設定ファイルは当日も使用します。当日すぐに開けるように，ダウンロードフォルダからデスクトップに保存してください。\n\n\n\nデスクトップ画面への移動",
+    "text": "設定ファイルのダウンロードと起動（パスワードの入力まで）の動画",
     "crumbs": [
       "Mac端末",
       "設定ファイルのダウンロード"
@@ -278,6 +278,70 @@
     "crumbs": [
       "Windows端末",
       "端末の確認"
+    ]
+  },
+  {
+    "objectID": "osVersionCheck_win.html#osの確認手順に関する動画",
+    "href": "osVersionCheck_win.html#osの確認手順に関する動画",
+    "title": "試験で利用する端末のOSの確認",
+    "section": "OSの確認手順に関する動画",
+    "text": "OSの確認手順に関する動画",
+    "crumbs": [
+      "Windows端末",
+      "試験で利用する端末のOSの確認"
+    ]
+  },
+  {
+    "objectID": "SEBInstall_win.html#safe-exam-browserのダウンロードセットアップ動画",
+    "href": "SEBInstall_win.html#safe-exam-browserのダウンロードセットアップ動画",
+    "title": "ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ",
+    "section": "Safe Exam Browserのダウンロード・セットアップ動画",
+    "text": "Safe Exam Browserのダウンロード・セットアップ動画",
+    "crumbs": [
+      "Windows端末",
+      "ロックダウンブラウザ (Safe Exam Browser) のダウンロード・セットアップ"
+    ]
+  },
+  {
+    "objectID": "osVersionCheck_win.html#osの確認手順",
+    "href": "osVersionCheck_win.html#osの確認手順",
+    "title": "試験で利用する端末のOSの確認",
+    "section": "OSの確認手順",
+    "text": "OSの確認手順",
+    "crumbs": [
+      "Windows端末",
+      "試験で利用する端末のOSの確認"
+    ]
+  },
+  {
+    "objectID": "SEBInstall_mac.html#safe-exam-browserのダウンロードセットアップ動画",
+    "href": "SEBInstall_mac.html#safe-exam-browserのダウンロードセットアップ動画",
+    "title": "ロックダウンブラウザ (Safe Exam Browser) のダウンロード",
+    "section": "Safe Exam Browserのダウンロード・セットアップ動画",
+    "text": "Safe Exam Browserのダウンロード・セットアップ動画",
+    "crumbs": [
+      "Mac端末",
+      "ロックダウンブラウザ (Safe Exam Browser) のダウンロード"
+    ]
+  },
+  {
+    "objectID": "bringings.html",
+    "href": "bringings.html",
+    "title": "当日の持ち物",
+    "section": "",
+    "text": "設定に困ったら\n\n\n\n相談用メールアドレス（大学入試センター研究開発部 寺尾研究室）までご連絡ください。\n\n\n\n試験で使用する端末（マニュアル・本伴走サイトの指示に沿って設定を済ませたもの）\n\n端末を充電するための電源アダプター等\n\n当日は、実施側の事情により充電環境を提供できない可能性もありますので、前日までに端末をフル充電にして持参してください。\n\nインターネットに接続するための通信機器などは、実施者側で用意しますので、持参する必要はありません。\n\n筆記用具（鉛筆・シャープペンシル・ボールペン可）\nスマートフォン\n\n当日は、SONAシステムのQRコードを使って受付します。\n前日に研究参加者募集システムから、受付用のQRコードが添付されたメールが送信されますので、受付時にQRコードリーダーにかざしてください。\n\n\n\n謝金について\n\n研究参加者募集システムの登録者に対し、12月上旬から中旬を目途に、謝金手続きの方法についてお知らせします。",
+    "crumbs": [
+      "当日の持ち物"
+    ]
+  },
+  {
+    "objectID": "caution.html",
+    "href": "caution.html",
+    "title": "その他の注意事項",
+    "section": "",
+    "text": "設定に困ったら\n\n\n\n相談用メールアドレス（大学入試センター研究開発部 寺尾研究室）までご連絡ください。\n\n\n\n試験当日に事前準備済みの端末を持参できない方は、受験できないことがあります。 必ずマニュアルに沿って事前準備を行い、試験システムに接続できる端末を持参してください。\n試験当日、誠実に受験していただけないと判断される方には、こちらから注意喚起を行うことがあります。それでも改善いただけない場合には、謝金をお支払いしないこともあります。\n試験では、大学入試センターが用意するイヤホンを使用します。イヤホンが耳に合わない可能性がある場合には、相談用メールアドレスに事前連絡していただき、当日は自分の耳に合うイヤホンを持参してください。",
+    "crumbs": [
+      "その他の注意事項"
     ]
   }
 ]
